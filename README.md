@@ -46,3 +46,8 @@ This project is a simple **sound level meter** using an Arduino, a sound sensor,
 💡 This project is great for **learning analog signal processing and sensor integration** with Arduino!
 
 
+<img width="886" height="663" alt="image" src="https://github.com/user-attachments/assets/aebb6574-6c27-4e67-94ca-c2767abbfff3" />
+<img width="565" height="310" alt="image" src="https://github.com/user-attachments/assets/1f93296a-507c-4c01-b72c-01556f07652e" />
+<img width="443" height="295" alt="image" src="https://github.com/user-attachments/assets/a4fe7067-64d9-4cb6-9784-32d21b4d60a6" />
+
+
